@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_blog=self.webpackChunkgatsby_starter_blog||[]).push([[419],{7339:function(e,t,a){a.r(t);var r=a(6540);t.default=()=>r.createElement("h1",null,"Category Page")}}]);
-//# sourceMappingURL=component---src-pages-category-js-e0e4ad892993501179ee.js.map
