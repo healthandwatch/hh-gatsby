@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_blog=self.webpackChunkgatsby_starter_blog||[]).push([[762],{3556:function(t,e,n){n.r(e),n.d(e,{default:function(){return u}});var r=n(6540);function u(){return r.createElement("h1",null,"Welcome to Tools")}}}]);
+//# sourceMappingURL=component---src-pages-tools-js-ac72dd337ce688f8f4b0.js.map
